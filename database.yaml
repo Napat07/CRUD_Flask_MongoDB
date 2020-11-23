@@ -1,0 +1,1 @@
+uri: 'mongodb://ITSdb:new0865944040@its-shard-00-00.9hjx2.mongodb.net:27017,its-shard-00-01.9hjx2.mongodb.net:27017,its-shard-00-02.9hjx2.mongodb.net:27017/ITSdb?ssl=true&replicaSet=atlas-1jomad-shard-0&authSource=admin&retryWrites=true&w=majority'
