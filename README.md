@@ -5,7 +5,6 @@
     $ python app.py
     run on http://localhost:5000/
    
-
     GET /
     POST /data
     GET /data
